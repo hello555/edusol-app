@@ -1,0 +1,73 @@
+.team-section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #abcde0;
+  }
+    
+  .image-container {
+    max-height: 350px;
+    overflow: hidden;
+  }
+    
+  .image-container img {
+    width: 100%;
+    height: auto;
+    opacity: 0.7;
+  }
+  
+  .team-h1 {
+    font-weight: bolder;
+    padding-top: 20px;
+    color: white;
+  }
+  
+  .our-team-desc {
+    font-weight: normal; 
+    padding-bottom: 20px;
+    color: white;
+  }
+
+
+.about-us {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 1600px;
+    text-align: center;
+  }
+  
+  .about-us h2 {
+    font-size: 36px;
+    font-weight: bolder;
+  }
+  
+  .about-us h3 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .about-us p {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+.empowering {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 1600px;
+    text-align: center;
+  }
+  
+  .empowering h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+  }
+  
+  .empowering p {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+  }

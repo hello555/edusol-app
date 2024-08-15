@@ -1,0 +1,7 @@
+.navbar-custom {
+    text-align: center;
+  }
+  
+.navbar-nav .nav-link.bold {
+  font-weight: bold;
+}

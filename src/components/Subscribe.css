@@ -1,0 +1,26 @@
+.subscribe-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #abcde0;
+    padding: 30px;
+    width: 100vw;
+}
+
+.subscribe-content {
+    color: white;
+}
+.subscribe-h2 {
+    font-weight: bolder;
+    padding: 10px;
+}
+
+.subscribe-email-form {
+    padding: 10px;
+}
+
+.subscribe-button {
+    padding: 10px;
+}
+.subscribe-label{
+    font-weight: bolder;
+}
